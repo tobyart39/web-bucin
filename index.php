@@ -26,7 +26,7 @@
 <body>
 	
    <!-- Ganti Audio di sini -->
-   <audio src="https://feeldreams.github.io/vibescorona.mp3" id="linkmp3" class="sembunyi"></audio>
+   <audio src="https://tobyart39.github.io/musikbucin.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
      <!-- Wallpaper --><img src="https://feeldreams.github.io/wp4.jpg" id="wallpaper"><div id="beneranblur"></div>
