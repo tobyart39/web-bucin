@@ -54,9 +54,9 @@
      <p id="halo2" class="halo"></p>
      
      <!-- Konten Pesan Akhir -->
-     <p id="kalimatbawah">I Love You <?php echo $_GET["to"]; ?> ❤️</p> 
-     <p id="kalimatbawah2" class="sembunyi">Semangat Terus yaa ❤️</p> 
-     <p id="kalimatbawah3" class="sembunyi">Aku Sayang Kamu ❤️</p>
+     <p id="kalimatbawah">❤️ I Love You <?php echo $_GET["to"]; ?> ❤️</p> 
+     <p id="kalimatbawah2" class="sembunyi">Aku Sayang Kamu ❤️</p> 
+     <p id="kalimatbawah3" class="sembunyi">Dibuat Oleh : <?php echo $_GET["name"]; ?></p>
        
      <div><blockquote id="bq" data-text="♥">
 
@@ -73,10 +73,10 @@
      </blockquote></div>
 
      <!-- Tombol Kirim Pesan -->
-     <div id="Tombol"><a id="By">� Balas</a></div>
-
+     <div id="Tombol"><a id="By">❤️ Balas ❤️</a></div>
+     <?php $url = $_SERVER["HTTP_HOST"]; + "/api/?name=" + $_GET["to"]; + "to=" + $_GET["name"]; ?>
      <!-- Pesan yang dikirim ke WhatsApp -->
-     <span id="pesanWA" class="sembunyi">Aww, GoodNight too!</span>
+     <span id="pesanWA" class="sembunyi"> . $url . </span>
      
    </div>
 
