@@ -74,9 +74,9 @@
 
      <!-- Tombol Kirim Pesan -->
      <div id="Tombol"><a id="By">❤️ Balas ❤️</a></div>
-     <?php $url = $_SERVER["HTTP_HOST"]; + "/api/?name=" + $_GET["to"]; + "to=" + $_GET["name"]; ?>
+
      <!-- Pesan yang dikirim ke WhatsApp -->
-     <span id="pesanWA" class="sembunyi"> . $url . </span>
+     <span id="pesanWA" class="sembunyi">https://web-bucin-blond.vercel.app/api/?name=Namamu&to=NamaPasangan</span>
      
    </div>
 
