@@ -54,9 +54,9 @@
      <p id="halo2" class="halo"></p>
      
      <!-- Konten Pesan Akhir -->
-     <p id="kalimatbawah">❤️ I Love You <?php echo $_GET["to"]; ?> ❤️</p> 
-     <p id="kalimatbawah2" class="sembunyi">Aku Sayang Kamu ❤️</p> 
-     <p id="kalimatbawah3" class="sembunyi">Dibuat Oleh : <?php echo $_GET["name"]; ?></p>
+     <p id="kalimatbawah">I Love You <?php echo $_GET["to"]; ?> ❤️</p> 
+     <p id="kalimatbawah2" class="sembunyi">Semangat Terus yaa ❤️</p> 
+     <p id="kalimatbawah3" class="sembunyi">Aku Sayang Kamu ❤️</p>
        
      <div><blockquote id="bq" data-text="♥">
 
@@ -73,7 +73,7 @@
      </blockquote></div>
 
      <!-- Tombol Kirim Pesan -->
-     <div id="Tombol"><a id="By">❤️ Balas ❤️</a></div>
+     <div id="Tombol"><a id="By">� Balas</a></div>
 
      <!-- Pesan yang dikirim ke WhatsApp -->
      <span id="pesanWA" class="sembunyi">https://web-bucin-blond.vercel.app/api/?name=Namamu&to=NamaPasangan</span>
