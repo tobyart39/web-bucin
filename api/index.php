@@ -55,8 +55,8 @@
      
      <!-- Konten Pesan Akhir -->
      <p id="kalimatbawah">I Love You <?php echo $_GET["to"]; ?> ❤️</p> 
-     <p id="kalimatbawah2" class="sembunyi">Semangat Terus yaa ❤️</p> 
-     <p id="kalimatbawah3" class="sembunyi">Aku Sayang Kamu ❤️</p>
+     <p id="kalimatbawah2" class="sembunyi">Aku Sayang Kamu ❤️</p> 
+     <p id="kalimatbawah3" class="sembunyi">Dibuat oleh <?php echo $_GET["name"]; ?></p>
        
      <div><blockquote id="bq" data-text="♥">
 
