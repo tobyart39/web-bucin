@@ -23,9 +23,9 @@ function jjfoto(){fotostiker.style.animation="rto .8s infinite alternate";setInt
 
 function kethalo(){
 new TypeIt("#halo", {
-strings: ["" + "Hai Kamu!"], startDelay: 50, speed: 30, waitUntilVisible: true,
+strings: ["" + "Hai Oca!"], startDelay: 50, speed: 30, waitUntilVisible: true,
 afterComplete: function(){
-halo.innerHTML = "Hai Kamu!";
+halo.innerHTML = "Hai Oca!";
 setTimeout(bqmuncul,200);
 },}).go();
 }
