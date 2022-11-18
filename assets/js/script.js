@@ -33,10 +33,10 @@ function kethalo2(){
 bqhilang();fthilang();ftganti=6;setTimeout(ftmuncul,400);
 halo.style="display:none";
 new TypeIt("#halo2", {
-strings: ["" + "Kamu Yang Paling Imut"], startDelay: 50, speed: 60, waitUntilVisible: true,
+strings: ["" + "Kamu Yang Paling Cantik"], startDelay: 50, speed: 60, waitUntilVisible: true,
 afterComplete: function(){
 bq.style="";
-halo2.innerHTML = "Kamu Yang Paling Imut";
+halo2.innerHTML = "Kamu Yang Paling Cantik";
 setTimeout(munculbwh,800);
 setInterval(createHeart,400);setTimeout(tombol,7000);
 },}).go();
