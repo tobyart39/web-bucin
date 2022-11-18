@@ -26,7 +26,7 @@
 <body>
 	
    <!-- Ganti Audio di sini -->
-   <audio src="https://feeldreams.github.io/vibescorona.mp3" id="linkmp3" class="sembunyi"></audio>
+   <audio src="https://tobyart39.github.io/musikbucin2.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
      <!-- Wallpaper --><img src="https://feeldreams.github.io/wp4.jpg" id="wallpaper"><div id="beneranblur"></div>
@@ -76,7 +76,7 @@
      <div id="Tombol"><a id="By">� Balas</a></div>
 
      <!-- Pesan yang dikirim ke WhatsApp -->
-     <span id="pesanWA" class="sembunyi">https://web-bucin-blond.vercel.app/api/?name=Namamu&to=NamaPasangan</span>
+     <span id="pesanWA" class="sembunyi">https://web-bucin-blond.vercel.app/api/?name=Namamuxsimboldanxto=NamaPasangan</span>
      
    </div>
 
